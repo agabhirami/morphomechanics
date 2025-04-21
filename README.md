@@ -1,1 +1,2 @@
 # morphomechanics
+Resources and tools for studying the mechanics of tissue morphogenesis. We are focusing on the role of the extracellular matrix (ECM) in shaping tissue morphology during developmental growth. Using Drosophila melanogaster as a model, we explore the mechanical interaction between growing epithelial tissues with their basement membranes, specialized sheet-like ECMs during development.
